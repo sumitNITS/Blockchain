@@ -1,0 +1,1 @@
+All my Bitcoin related notes will eventually land here!
