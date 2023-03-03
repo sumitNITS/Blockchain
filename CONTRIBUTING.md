@@ -11,7 +11,7 @@ The vision behind creating this repository is to make it as transparent as possi
 - [Create an issue](https://github.com/sumitNITS/Blockchain/issues/new) or [Look for the existing issues](https://github.com/sumitNITS/Blockchain/issues) if there is any!
 - [Fork the Repository](https://github.com/sumitNITS/Blockchain/fork) and create a new branch everytime you work on any new ideas or an existing issues. Once done, commit your work to the newly created branch!
 - [Create a Pull request](https://github.com/sumitNITS/Blockchain/pulls) (PR), Your work will be verified by the community members and ask for the improvements if needed!
-- Additionally, You can include screenshots, a short description of you work in the PR. It will help others to understand your work better.
+- Additionally, You can include screenshots, a short description of your work in the PR. It will help others to understand your work better.
 
 
 ### That's all, Thank you!
