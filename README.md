@@ -8,8 +8,6 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/37767537/222690084-8b55a5a5-3a9f-4fb2-9280-4d8f50f8b70d.png" height="80" alt="Bitcoin"> 
 
-![[Bitcoin Price](https://img.shields.io/badge/bitcoin-$${{ formatNumberWithCommas(currency('bitcoin').market_data.current_price.usd.toFixed(2))) }}-orange)](https://www.coingecko.com/en/coins/bitcoin)
-
 - [Notes](Bitcoin/README.md) 📒
 - [Resources](Bitcoin/Resources/README.md) 🚀
 
