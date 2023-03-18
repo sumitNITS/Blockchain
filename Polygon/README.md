@@ -1,0 +1,1 @@
+All polygon related notes will eventually land here!
