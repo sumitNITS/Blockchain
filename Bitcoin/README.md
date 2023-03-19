@@ -9,7 +9,7 @@ The first open-source Bitcoin software was released in 2009, and the first block
 
 Bitcoin is a digital currency and payment system that operates on a decentralized, peer-to-peer network. Bitcoin is based on a blockchain, which is a public ledger that records all bitcoin transactions. Transactions on the blockchain are verified by network nodes through cryptography and recorded on a publicly distributed ledger. This process makes it difficult to manipulate or hack the system, as every transaction is recorded and verified by a network of users. Also, The number of bitcoins is limited to 21 million, which is expected to be reached by the year 2140. The process of creating new bitcoins known as mining involves solving complex mathematical problems using specialized computer hardware. Bitcoin is considered to be the first successful implementation of a cryptocurrency, and its success has inspired the creation of numerous other cryptocurrencies.
 
-Bitcoin is like money that only exists on computers. People who have Bitcoin use special codes called keys to show that they own it. When they want to send Bitcoin to someone else, they use these keys to prove that they have it and then send it to the other person. And unlike real money, there are no banks or governments in charge of Bitcoin, so people who have Bitcoin can use it however they want.
+Bitcoin is like money that only exists on computers. People who have Bitcoin use special codes called keys to show that they own it. When they want to send Bitcoin to someone else, they use these keys to prove that they have it and then send it to the other person. And unlike real money, there are no banks or governments in charge of Bitcoin, so people who have Bitcoin can use it wherever they want.
 
 
 
