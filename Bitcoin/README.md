@@ -13,5 +13,6 @@ Bitcoin is like money that only exists on computers. People who have Bitcoin use
 
 ### Understand How does a Blockchain work?
 
-- ![Simply Explained (YouTube)](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+Video Credit: Simply Explained (YouTube)
 
+https://user-images.githubusercontent.com/37767537/228543700-8fd85eb3-7459-4bc6-bb48-54ff4e392a42.mp4
