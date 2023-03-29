@@ -12,6 +12,6 @@ Bitcoin is a digital currency and payment system that operates on a decentralize
 Bitcoin is like money that only exists on computers. People who have Bitcoin use special codes called keys to show that they own it. When they want to send Bitcoin to someone else, they use these keys to prove that they have it and then send it to the other person. And unlike real money, there are no banks or governments in charge of Bitcoin, so people who have Bitcoin can use it wherever they want.
 
 ### Understand How does a Blockchain work?
+
 - ![Simply Explained (YouTube)](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 
-https://user-images.githubusercontent.com/37767537/228535802-05392de3-2d44-4730-a9a1-4a717ee2f91c.mp4
