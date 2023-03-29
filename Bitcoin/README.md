@@ -16,5 +16,3 @@ Bitcoin is like money that only exists on computers. People who have Bitcoin use
 Video Credit: Simply Explained (YouTube)
 
 https://user-images.githubusercontent.com/37767537/228543700-8fd85eb3-7459-4bc6-bb48-54ff4e392a42.mp4
-
-- ![Building a blockchain with Javascript (YouTube Playlist)](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4)
