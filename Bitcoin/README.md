@@ -11,10 +11,12 @@ Bitcoin is a digital currency and payment system that operates on a decentralize
 
 Bitcoin is like money that only exists on computers. People who have Bitcoin use special codes called keys to show that they own it. When they want to send Bitcoin to someone else, they use these keys to prove that they have it and then send it to the other person. And unlike real money, there are no banks or governments in charge of Bitcoin, so people who have Bitcoin can use it wherever they want.
 
-### Understand How does a Blockchain work?
+## Understand How does a Blockchain work?
 
 Video Credit: Simply Explained (YouTube)
 
 https://user-images.githubusercontent.com/37767537/228543700-8fd85eb3-7459-4bc6-bb48-54ff4e392a42.mp4
 
-![Building a blockchain with Javascript](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4)
+### Building a blockchain with Javascript
+https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4
+
